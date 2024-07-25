@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Laser SLAM method based on spatial geometric features in degraded environment"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is accepted by Journal of Chinese Inertial Technology.'
+venue: 'Journal of Chinese Inertial Technology 2024'
+paperurl: 'http://louiszengCN.github.io/files/EI.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In response to the challenges encountered in degraded environments with no GPS signals and limited environmental texture features, this paper presents a Laser-based Simultaneous Localization and Mapping (SLAM) method that leverages spatial geometric features. The proposed approach introduces a novel feature point extraction technique based on spatial geometric characteristics, effectively utilizing spatial geometric features present in degraded environments. By establishing constraints between points, lines, and surfaces, a point cloud registration residual function is constructed, and optimization is performed using the Gauss-Newton method for point cloud registration. The backend of the algorithm utilizes keyframes to build submap, achieving precise pose estimations through map-to-map matching. Precise SLAM is achieved by interpolating and merging poses between the front-end and back-end. Extensive experiments conducted in both simulated and real-world degraded environments demonstrate the effectiveness of the proposed Laser SLAM algorithm. The pose estimation error remains below 5% within a 20-meter range, outperforming Hector, Gmapping, and Cartographer algorithms in mapping quality. Furthermore, the map update speed is, on average, four times faster than Hector, Gmapping, and Cartographer algorithms, making it a valuable technology reference for robot environment perception and autonomous exploration in degraded environments.
