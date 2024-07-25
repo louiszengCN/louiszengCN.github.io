@@ -1,6 +1,7 @@
 ---
 title: "YOCO: You Only Calibrate Once for Accurate Extrinsic  Parameter in LiDAR-Camera Systems"
 collection: publications
+permalink: /publication/2024-02-01-paper-title-number-3.md
 excerpt: 'Revision completed after peer review, will be published soon'
 venue: 'IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT'
 paperurl: 'http://louiszengCN.github.io/files/TIM.pdf'
