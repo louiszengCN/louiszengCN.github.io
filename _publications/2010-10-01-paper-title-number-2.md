@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Revision completed after peer review, will be published soon'
+venue: 'IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT'
+paperurl: 'http://louiszengCN.github.io/files/TIM.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In a multi-sensor fusion system composed of cameras and LiDAR, precise extrinsic calibration contributes to the system's long-term stability and accurate perception of the environment. However, methods based on extracting and registering corresponding points still face challenges in terms of automation and precision. This paper proposes a novel fully automatic extrinsic calibration method for LiDAR-camera systems that circumvents the need for corresponding point registration. In our approach, a novel algorithm to extract required LiDAR correspondence point is proposed. This method can effectively filter out irrelevant points by computing the orientation of plane point clouds and extracting points by applying distance- and density-based thresholds. We avoid the need for corresponding point registration by introducing extrinsic parameters between the LiDAR and camera into the projection of extracted points and constructing co-planar constraints. These parameters are then optimized to solve for the extrinsic. We validated our method across multiple sets of LiDAR-camera systems. In synthetic experiments, our method demonstrates superior performance compared to current calibration techniques. Real-world data experiments further confirm the precision and robustness of the proposed algorithm, with average rotation and translation calibration errors between LiDAR and camera of less than 0.05° and 0.015m, respectively. This method enables automatic and accurate extrinsic calibration in a single one step, emphasizing the potential of calibration algorithms beyond using corresponding point registration to enhance the automation and precision of LiDAR-camera system calibration.
