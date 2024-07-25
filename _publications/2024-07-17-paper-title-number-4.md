@@ -1,7 +1,7 @@
 ---
 title: "NeeCo: Novel Instrument Deformation Synthesis Based on Dynammic 3D Gaussian Reconstruction"
 collection: publications
-permalink: /publication/2024-07-17-paper-title-number-4.md
+permalink: /publication/2024-07-17-paper-title-number-4
 excerpt: 'This paper is under review.'
 venue: ' IEEE TRANSACTIONS ON MEDICAL IMAGING'
 paperurl: 'http://louiszengCN.github.io/files/TMI-s.pdf'
