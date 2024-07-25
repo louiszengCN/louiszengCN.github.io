@@ -1,7 +1,7 @@
 ---
 title: "Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting"
 collection: publications
-permalink: /publication/2024-03-07-paper-title-number-3.md
+permalink: /publication/2024-03-07-paper-title-number-3
 excerpt: 'This paper is accepted by MICCAI2024'
 venue: 'INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION(MICCAI) 2024'
 
