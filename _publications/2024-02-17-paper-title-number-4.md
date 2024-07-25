@@ -2,9 +2,9 @@
 title: "NeeCo: Novel Instrument Deformation Synthesis Based on Dynammic 3D Gaussian Reconstruction"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is under review.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: ' IEEE TRANSACTIONS ON MEDICAL IMAGING'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 
