@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is accepted by MICCAI2024'
 venue: 'INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION(MICCAI) 2024'
 
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://export.arxiv.org/abs/2407.14846)'
+paperurl: 'http://louiszengCN.github.io/files/MICCAI.pdf'
 
 ---
 
