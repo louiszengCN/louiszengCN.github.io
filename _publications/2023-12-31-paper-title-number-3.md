@@ -2,7 +2,8 @@
 title: "Gait-based Guiding System: A New Approach for Blind Guidance"
 collection: publications
 permalink: /publication/2023-12-31-paper-title-number-3
-excerpt: 'This paper is under review in *Science China-Information Sciences*'
+excerpt: 'This paper is under review'
+venue: 'Science China-Information Sciences'
 paperurl: 'http://louiszengCN.github.io/files/GAIT.pdf'
 ---
 
