@@ -3,7 +3,6 @@ title: "NeeCo: Novel Instrument Deformation Synthesis Based on Dynammic 3D Gauss
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is under review.'
-date: 2024-02-17
 venue: ' IEEE TRANSACTIONS ON MEDICAL IMAGING'
 paperurl: 'http://louiszengCN.github.io/files/TMI-s.pdf'
 ---
