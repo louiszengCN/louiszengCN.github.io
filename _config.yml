@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianle Zeng's Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "tianle.png"
   name             : "Tianle Zeng"
   pronouns         : # example: "she/her"  
-  bio              : "I am finding PHD position for 2025Fall"
+  bio              : "投入几番竞技赛"
   location         : "Beijing"
   employer         : "University of Leeds"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  CSDN             : "https://blog.csdn.net/weixin_43890835?spm=1000.2115.3001.5343"
   researchgate     : # URL
 
   # Repositories and software development
