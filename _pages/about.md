@@ -53,16 +53,17 @@ Publications
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Yunyan He, Tianjiao Yang</p>
     <p><strong>State: Accepted by Journal of Chinese Inertial Technology</strong></p>
 
-  <div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
     <img src="/images/EIP.png" alt="Image description" style="width:200px; height:auto;"/>
   </div>
-  <div style="flex: 2; padding-left: 20px;">
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint</h3>
     <p>Sixiang Chen, Tian Ye, Kai Zhang, <strong>Zhaohu Xing</strong>, Yunlong Lin, and Lei Zhu</p>
     <p><strong>State: Accepted by ECCV2024</strong></p>
   </div>
 </div>
+
 
     
 Site-wide configuration
