@@ -102,14 +102,38 @@ Education
   </div>
 </div>
 
-Create content & metadata
+Intern 
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/dji.png" alt="Image description" style="width:200px; height:200px;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>DJI, SLAM Algorithm Engineer Intern, 2023</h3>
+    <h3>Developed multi-sensor fusion SLAM algorithms for UAV platforms. Through practical testing, analysis of algorithm performance, and adaptive improvements, successfully deployed the algorithms on the latest UAV products, achieving real-time operation and accurate positioning information.</h3>
 
-**Markdown generator**
+  </div>
+  
+  <div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/Autel_Robotics_Logo.png" alt="Image description" style="width:200px; height:200px;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>Autel Robotics, AI Apllication Research Intern, 2023</h3>
+    <h3>Developed a toolchain for extrinsic calibration of depth sensors and cameras based on multi-sensor joint calibration algorithms, enabling rapid self-calibration of multiple sensors before UAV takeoff.</h3>
+    <h3>Studying the cutting-edge academic technologies of multi-sensor fusion in industrial-grade UAVs, replicating and deploying these technologies on UAV platforms for real flight data collection, testing, evaluation, and troubleshooting. Additionally, Applying multi-sensor fusion techniques to integrate various sensors onboard the UAV, achieving multi-sensor fusion SLAM.</h3>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+  </div>
+  
+  <div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/cssc.png" alt="Image description" style="width:200px; height:200px;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>China State Shipbuilding Corporation Limited, computer Vision Engineer Intern, 2022</h3>
+    <h3>Developed a real-time automatic reading algorithm for digital instruments in industrial sites based on YOLOv5. This algorithm supports accurate recognition and reading of various instruments in industrial environments such as ship warehouses, ship engine rooms, and port pipelines. Additionally, the decimal point recognition algorithm was optimized to achieve high-accuracy readings from both single-frame images and real-time video streams, with an accuracy rate of 95% and a recall rate approaching 100% in industrial settings.</h3>
+
+  </div>
 
 How to edit your site's GitHub repository
 ------
