@@ -78,8 +78,7 @@ Education
     <img src="/images/leeds.png" alt="Image description" style="width:100px; height:40px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>University of Leeds</h3>
-    <h3>M.Eng., major in Mechatronics and Robotics, Sep 2023 - Sep 2024</h3>
+    <h3>University of Leeds<br>M.Eng., major in Mechatronics and Robotics, Sep 2023 - Sep 2024</h3>
      <h3><span style="color: red;">Dual master degree with funding</span></h3>
 
   </div>
@@ -90,8 +89,7 @@ Education
     <img src="/images/cumtb.png" alt="Image description" style="width:100px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>China University of Mining and Technology Beijing</h3>
-    <h3>M.Eng., Major in Geoscience and Surveying Engineering, Sep 2022 - Jun 2025</h3>
+<h3>China University of Mining and Technology Beijing<br>M.Eng., Major in Geoscience and Surveying Engineering, Sep 2022 - Jun 2025</h3>
     <h3><span style="color: red;">Ranking top 2%</span></h3>
     
   </div>
@@ -102,8 +100,7 @@ Education
     <img src="/images/SCAU.png" alt="Image description" style="width:100px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>South China Agricultural University</h3>
-    <h3>B.Eng., Major in Electronic Information Science and Technology, Sep 2018 - Jun 2022</h3>
+<h3>South China Agricultural University<br>B.Eng., Major in Electronic Information Science and Technology, Sep 2018 - Jun 2022</h3>
     <h3>Ranking top 20%</h3>
 
   </div>
