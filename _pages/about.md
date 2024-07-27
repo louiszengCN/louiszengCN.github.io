@@ -57,7 +57,7 @@ Publications
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Meixi He</p>
-    <p>State: </strong>Minior revision completed</strong> for IEEE Transcations on Instrumentation and Measurement</p>
+    <p>State: <strong>Minior revision completed</strong> for IEEE Transcations on Instrumentation and Measurement</p>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Publications
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Yunyan He, Tianjiao Yang</p>
-    <p>State: </strong>Accepted</strong> by Journal of Chinese Inertial Technology</p>
+    <p>State: <strong>Accepted</strong> by Journal of Chinese Inertial Technology</p>
   </div>
 </div>
 
