@@ -75,7 +75,7 @@ Education
 ------
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/leeds.png" alt="Image description" style="width:200px; height:100px;"/>
+    <img src="/images/leeds.png" alt="Image description" style="width:100px; height:80px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>M.Eng., major in Mechatronics and Robotics dual master degree, Sep 2023 - Sep 2024</h3>
@@ -85,7 +85,7 @@ Education
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/cumtb.png" alt="Image description" style="width:200px; height:200px;"/>
+    <img src="/images/cumtb.png" alt="Image description" style="width:100px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>M.Eng., Major in Geoscience and Surveying Engineering, Sep 2022 - Jun 2025</h3>
@@ -96,7 +96,7 @@ Education
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/SCAU.png" alt="Image description" style="width:200px; height:200px;"/>
+    <img src="/images/SCAU.png" alt="Image description" style="width:100px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>B.Eng., Major in Electronic Information Science and Technology, Sep 2018 - Jun 2022</h3>
@@ -114,8 +114,8 @@ Intern
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>DJI, SLAM Algorithm Engineer Intern, 2023</h3>
     <h3>Developed multi-sensor fusion SLAM algorithms for UAV platforms. Through practical testing, analysis of algorithm performance, and adaptive improvements, successfully deployed the algorithms on the latest UAV products, achieving real-time operation and accurate positioning information.</h3>
-
   </div>
+</div>
   
   <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
@@ -125,8 +125,8 @@ Intern
     <h3>Autel Robotics, AI Apllication Research Intern, 2023</h3>
     <h3>Developed a toolchain for extrinsic calibration of depth sensors and cameras based on multi-sensor joint calibration algorithms, enabling rapid self-calibration of multiple sensors before UAV takeoff.</h3>
     <h3>Studying the cutting-edge academic technologies of multi-sensor fusion in industrial-grade UAVs, replicating and deploying these technologies on UAV platforms for real flight data collection, testing, evaluation, and troubleshooting. Additionally, Applying multi-sensor fusion techniques to integrate various sensors onboard the UAV, achieving multi-sensor fusion SLAM.</h3>
-
   </div>
+</div>
   
   <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
@@ -135,14 +135,13 @@ Intern
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>China State Shipbuilding Corporation Limited, computer Vision Engineer Intern, 2022</h3>
     <h3>Developed a real-time automatic reading algorithm for digital instruments in industrial sites based on YOLOv5. This algorithm supports accurate recognition and reading of various instruments in industrial environments such as ship warehouses, ship engine rooms, and port pipelines. Additionally, the decimal point recognition algorithm was optimized to achieve high-accuracy readings from both single-frame images and real-time video streams, with an accuracy rate of 95% and a recall rate approaching 100% in industrial settings.</h3>
-
   </div>
+</div>
 
 Honors
 ------
 National Second Prize **(Top 3%)**, The China Graduate Electronics Design Contest(2023)                             
-Innovation Award **(Top 4%)**, HUAWEI Intelligent Mining AI Contest(2022)     
-National Third Prize, China Post-graduate Mathematical Contest in Modeling(2022)  
-China Scholarship Council(CSC) Scholarship(2023-2024)                
-
+Innovation Award **(Top 4%)**, HUAWEI Intelligent Mining AI Contest(2022)      
+China Scholarship Council Scholarship **(Two slot in 2023)** (2023-2024)                
+National Third Prize, China Post-graduate Mathematical Contest in Modeling(2022) 
 
