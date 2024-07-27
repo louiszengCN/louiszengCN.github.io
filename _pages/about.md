@@ -12,7 +12,7 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 
 <span style="color:red">I will graduate in 2025 and am currently seeking a Ph.D. position starting in the fall of 2025.</span>
 
-A data-driven personal website
+Research Experience
 ======
 My research experience primarily focuses on Computer Vision (3D Reconstruction, medical imaging processing), Robotics (SLAM, multi-sensor fusion, UAVs), and AI.
 
