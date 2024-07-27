@@ -75,30 +75,29 @@ Education
 ------
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/EIP.png" alt="Image description" style="width:300px; height:100px;"/>
+    <img src="/images/leeds.png" alt="Image description" style="width:200px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
+    <h3>M.Eng., major in Mechatronics and Robotics dual master degree, Sep 2023 - Sep 2024</h3>
 
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/EIP.png" alt="Image description" style="width:300px; height:100px;"/>
+    <img src="/images/cumtb.png" alt="Image description" style="width:200px; height:200px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
-
+    <h3>M.Eng., Major in Geoscience and Surveying Engineering, Sep 2022 - Jun 2025</h3>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/EIP.png" alt="Image description" style="width:300px; height:100px;"/>
+    <img src="/images/SCAU.png" alt="Image description" style="width:200px; height:200px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
+    <h3>B.Eng., Major in Electronic Information Science and Technology, Sep 2018 - Jun 2022</h3>
 
   </div>
 </div>
