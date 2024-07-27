@@ -63,7 +63,7 @@ Publications
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/GAITP.png" alt="Image description" style="width:300px; height:150px;"/>
+    <img src="/images/GAITP.png" alt="Image description" style="width:300px; height:250px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
@@ -74,7 +74,7 @@ Publications
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/EIP.png" alt="Image description" style="width:300px; height:150px;"/>
+    <img src="/images/EIP.png" alt="Image description" style="width:300px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
