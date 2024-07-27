@@ -75,7 +75,7 @@ Education
 ------
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/leeds.png" alt="Image description" style="width:100px; height:80px;"/>
+    <img src="/images/leeds.png" alt="Image description" style="width:100px; height:40px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>M.Eng., major in Mechatronics and Robotics dual master degree, Sep 2023 - Sep 2024</h3>
