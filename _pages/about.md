@@ -43,7 +43,7 @@ Publications
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Meixi He</p>
     <p><strong>State: Minior revision completed for IEEE Transcations on Instrumentation and Measurement</strong></p>
 
-![Editing a markdown file for a talk](/images/MICCAIp.png)
+![Editing a markdown file for a talk](/images/GAITP.png)
  <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
     <p><strong>Tianle Zeng</strong>, Feifan Yan, meixi He, Dengke He</p>
     <p><strong>State: Submitted to Science China-Information Sciences</strong></p>
