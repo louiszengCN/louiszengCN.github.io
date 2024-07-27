@@ -29,9 +29,9 @@ I enjoy researching meaningful problems from basic principles to in-depth soluti
 Publications
 ======
 ![Editing a markdown file for a talk](/images/new_training_process.png)
- <h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
-    <p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
-    <p><strong>State: Submitted to IEEE Transactions on Medical Imaging</strong></p>
+<h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
+<p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
+<p><strong>State: Submitted to IEEE Transactions on Medical Imaging</strong></p>
 
 ![Editing a markdown file for a talk](/images/MICCAIp.png)
  <h3>Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting</h3>
