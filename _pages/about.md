@@ -34,7 +34,7 @@ Publications
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/images/editing-talk.png" alt="Image description" style="width:100%; max-width:200px;"/>
+    <img src="/images/new_training_process.png" alt="Image description" style="width:100%; max-width:200px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <h3>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint</h3>
