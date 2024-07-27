@@ -29,9 +29,9 @@ I enjoy researching meaningful problems from basic principles to in-depth soluti
 Publications
 ======
 ![Editing a markdown file for a talk](/images/new_training_process.png)
- <h3>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint</h3>
-    <p>Sixiang Chen, Tian Ye, Kai Zhang, <strong>Zhaohu Xing</strong>, Yunlong Lin, and Lei Zhu</p>
-    <p><strong>State: Accepted by ECCV2024</strong></p>
+ <h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
+    <p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
+    <p><strong>State: Submitted to IEEE Transactions on Medical Imaging</strong></p>
 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
