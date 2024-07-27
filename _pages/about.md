@@ -28,39 +28,58 @@ I enjoy researching meaningful problems from basic principles to in-depth soluti
 
 Publications
 ======
-![Editing a markdown file for a talk](/images/new_training_process.png)
-<h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
-<p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
-<p><strong>State: Submitted to IEEE Transactions on Medical Imaging</strong></p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/new_training_process.png" alt="Image description" style="width:200px; height:auto;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
+    <p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
+    <p>State: Submitted to IEEE Transactions on Medical Imaging</p>
+  </div>
+</div>
 
-![Editing a markdown file for a talk](/images/MICCAIp.png)
- <h3>Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting</h3>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/MICCAIp.png" alt="Image description" style="width:200px; height:auto;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting</h3>
     <p><strong>Tianle Zeng</strong>, Gerardo Loza Galindo, Junlei Hu, Pietro Valdastri, and Dominic Jones</p>
     <p><strong>State: Accepted by MICCAI 2024</strong></p>
+  </div>
+</div>
 
-![Editing a markdown file for a talk](/images/TIMp.png)
- <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/TIMp.png" alt="Image description" style="width:200px; height:auto;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Meixi He</p>
     <p><strong>State: Minior revision completed for IEEE Transcations on Instrumentation and Measurement</strong></p>
+  </div>
+</div>
 
-![Editing a markdown file for a talk](/images/GAITP.png)
- <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/images/GAITP.png" alt="Image description" style="width:200px; height:auto;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px; text-align: center;">
+    <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
     <p><strong>Tianle Zeng</strong>, Feifan Yan, meixi He, Dengke He</p>
     <p><strong>State: Submitted to Science China-Information Sciences</strong></p>
-
-  ![Editing a markdown file for a talk](/images/EIP.png)
- <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
-    <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Yunyan He, Tianjiao Yang</p>
-    <p><strong>State: Accepted by Journal of Chinese Inertial Technology</strong></p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
     <img src="/images/EIP.png" alt="Image description" style="width:200px; height:auto;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint</h3>
-    <p>Sixiang Chen, Tian Ye, Kai Zhang, <strong>Zhaohu Xing</strong>, Yunlong Lin, and Lei Zhu</p>
-    <p><strong>State: Accepted by ECCV2024</strong></p>
+    <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
+    <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Yunyan He, Tianjiao Yang</p>
+    <p><strong>State: Accepted by Journal of Chinese Inertial Technology</strong></p>
   </div>
 </div>
 
