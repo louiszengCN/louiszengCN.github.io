@@ -46,7 +46,7 @@ Publications
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting</h3>
     <p><strong>Tianle Zeng</strong>, Gerardo Loza Galindo, Junlei Hu, Pietro Valdastri, and Dominic Jones</p>
-    <p><strong>State: Accepted by MICCAI 2024</strong></p>
+    <p>State: <strong>Accepted</strong> by MICCAI 2024</p>
   </div>
 </div>
 
@@ -57,7 +57,7 @@ Publications
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Meixi He</p>
-    <p><strong>State: Minior revision completed for IEEE Transcations on Instrumentation and Measurement</strong></p>
+    <p>State: </strong>Minior revision completed</strong> for IEEE Transcations on Instrumentation and Measurement</p>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Publications
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
     <p><strong>Tianle Zeng</strong>, Feifan Yan, meixi He, Dengke He</p>
-    <p><strong>State: Submitted to Science China-Information Sciences</strong></p>
+    <p>State: Submitted to Science China-Information Sciences</p>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Publications
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Yunyan He, Tianjiao Yang</p>
-    <p><strong>State: Accepted by Journal of Chinese Inertial Technology</strong></p>
+    <p>State: </strong>Accepted</strong> by Journal of Chinese Inertial Technology</p>
   </div>
 </div>
 
