@@ -10,7 +10,7 @@ redirect_from:
 I am a final-year master's student in Robotics at the University of Leeds, under the supervision of [Prof. Pietro Valdastri](https://scholar.google.co.uk/citations?hl=zh-CN&user=jFBao_MAAAAJ) and [Prof. Dominic Jones](https://scholar.google.co.uk/citations?hl=zh-CN&user=uCA2FIMAAAAJ). My research is conducted within the [STORMLAB](https://www.stormlabuk.com/). This is a dual master's degree program funded by CSC(China Scholarship Council), and I am also a second-year master's student at China University of Mining and Technology Beijing, supervised by [Prof. Dengke He](https://dcxy.cumtb.edu.cn/info/1011/2117.htm) and [Prof. Suping Peng](https://crsm.cumtb.edu.cn/info/1044/1187.htm). Here is the [link](https://skl.cumt.edu.cn/) to my research group.
 I received my Bachelor's degree in Electronic Information Science and Technology from South China Agricultural University.
 
-<span style="color:red">I will graduate in 2025 and am currently seeking a Ph.D. position starting in the fall of 2025.</span>
+<span style="color:red">I will graduate in 2025 and I am currently seeking a Ph.D. position starting in the fall of 2025.</span>
 
 Publications
 ======
