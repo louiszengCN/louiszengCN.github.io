@@ -14,7 +14,7 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 
 Publications
 ======
-> **Note:** You can click on the *'Publication'* tab at the top of the page to download all the papers (the under review manuscripts might not be the latest version). Additionally, I have provided a relatively detailed description of my research experience below in the *'Research Experience'* section:)
+> **Note:** You can click on the *'Publication'* tab at the top of the page to download all the papers (the under review manuscripts might not be the latest version). Additionally, I have provided a relatively detailed description of my research experience in the *'CV'* tab for your reference :)
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
@@ -71,25 +71,6 @@ Publications
   </div>
 </div>
 
-
-
-Research Experience
-======
-My research experience primarily focuses on Computer Vision (3D Reconstruction, medical imaging processing), Robotics (SLAM, multi-sensor fusion, UAVs), and AI.
-
-Upon starting my master's degree, I first engaged in the research of wearable intelligent devices designed to assist the visually impaired in outdoor environments by perceiving the environment and guiding them to avoid obstacles. I was mainly responsible for the overall software and hardware design of the device, the development of the multi-sensor fusion system, and the implementation of environmental perception algorithms (object detection, SLAM).
-
-Subsequently, I joined [Autel Robotics](https://www.autelrobotics.com/) to research UAVs for power grid inspection. I was responsible for replicating cutting-edge multi-sensor fusion algorithms from academia and conducting real flight tests to design suitable multi-sensor fusion SLAM algorithms (Lidar-Camera-IMU-RTK) for the next-generation UAVs.
-
-Later, I joined [DJI](https://www.dji.com/uk), where I developed SLAM algorithms for UAVs. In 2023, I was fortunate to receive the China Scholarship Council scholarship to study for a second master's degree at the University of Leeds (this program had only two slots in 2023). At the University of Leeds, I joined STORMLAB, where I researched surgical robots and medical image processing. My primary responsibility was studying surgical automation based on the [Da Vinci surgical robot](https://www.intuitive.com/en-us/products-and-services/da-vinci) and dynamic 3D reconstruction of laparoscopic surgery scenes.
-
-Based on these experiences, I completed five papers as the **first author** from 2023 to 2024. These include one conference paper (MICCAI) and four journal papers (IEEE TMI, IEEE TIM, SCIS, JCIT). Three of these papers have passed peer review and will be published in the future, while two are still under review (Note: Journal reviews are really slow!). If you are interested, you can download these papers in the publications section. Feel free to discuss any questions with me.
-
-I enjoy researching meaningful problems from basic principles to in-depth solutions. I hope my research has practical applications. I believe that in the next five years, embodied intelligence in robotics (general-purpose robots, surgical robots) will have significant development potential. I hope to pursue research related to these topics.
-
-
-
-    
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
