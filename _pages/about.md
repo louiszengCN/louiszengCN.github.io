@@ -142,3 +142,5 @@ Innovation Award **(Top 4%)**, HUAWEI Intelligent Mining AI Contest(2022)
 China Scholarship Council Scholarship **(Two slot in 2023)** (2023-2024)                
 National Third Prize, China Post-graduate Mathematical Contest in Modeling(2022) 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JIrP0oDijqcyjzAs2qFWVhwVnuMsUtGZHlit6UaMRPQ&cl=ffffff&w=a"></script>
+
