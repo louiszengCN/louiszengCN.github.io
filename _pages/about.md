@@ -33,12 +33,26 @@ Publications
     <p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
     <p><strong>State: Submitted to IEEE Transactions on Medical Imaging</strong></p>
 
-![Editing a markdown file for a talk](/images/new_training_process.png)
- <h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
-    <p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
-    <p><strong>State: Submitted to IEEE Transactions on Medical Imaging</strong></p>
+![Editing a markdown file for a talk](/images/MICCAIp.png)
+ <h3>Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting</h3>
+    <p><strong>Tianle Zeng</strong>, Gerardo Loza Galindo, Junlei Hu, Pietro Valdastri, and Dominic Jones</p>
+    <p><strong>State: Accepted by MICCAI 2024</strong></p>
 
+![Editing a markdown file for a talk](/images/TIMp.png)
+ <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
+    <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Meixi He</p>
+    <p><strong>State: Minior revision completed for IEEE Transcations on Instrumentation and Measurement</strong></p>
 
+![Editing a markdown file for a talk](/images/MICCAIp.png)
+ <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
+    <p><strong>Tianle Zeng</strong>, Feifan Yan, meixi He, Dengke He</p>
+    <p><strong>State: Submitted to Science China-Information Sciences</strong></p>
+
+  ![Editing a markdown file for a talk](/images/EIP.png)
+ <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
+    <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Yunyan He, Tianjiao Yang</p>
+    <p><strong>State: Accepted by Journal of Chinese Inertial Technology</strong></p>
+    
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
