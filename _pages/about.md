@@ -14,8 +14,7 @@ I received my Bachelor's degree in Electronic Information Science and Technology
 
 Publications
 ======
-> **Note:** You can click on the *'Publication'* tab at the top of the page to download all the articles (the under review versions might not be the latest). Additionally, I have provided a relatively detailed description of my research experience below in the *'Research Experience'* section:)
-
+> **Note:** You can click on the *'Publication'* tab at the top of the page to download all the papers (the under review manuscripts might not be the latest version). Additionally, I have provided a relatively detailed description of my research experience below in the *'Research Experience'* section:)
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
