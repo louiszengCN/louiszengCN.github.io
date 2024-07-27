@@ -30,7 +30,7 @@ Publications
 ======
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/new_training_process.png" alt="Image description" style="width:200px; height:auto;"/>
+    <img src="/images/new_training_process.png" alt="Image description" style="width:300px; height:300px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
@@ -41,7 +41,7 @@ Publications
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/MICCAIp.png" alt="Image description" style="width:200px; height:auto;"/>
+    <img src="/images/MICCAIp.png" alt="Image description" style="width:300px; height:300px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting</h3>
@@ -52,7 +52,7 @@ Publications
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/TIMp.png" alt="Image description" style="width:200px; height:auto;"/>
+    <img src="/images/TIMp.png" alt="Image description" style="width:300px; height:300px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
@@ -63,7 +63,7 @@ Publications
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/GAITP.png" alt="Image description" style="width:200px; height:auto;"/>
+    <img src="/images/GAITP.png" alt="Image description" style="width:300px; height:300px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Gait-based Guiding System: A New Approach for Blind Guidance</h3>
@@ -74,7 +74,7 @@ Publications
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="/images/EIP.png" alt="Image description" style="width:200px; height:auto;"/>
+    <img src="/images/EIP.png" alt="Image description" style="width:300px; height:300px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
     <h3>Laser SLAM Method Based on Spatial Geometric Features in Degraded Environments</h3>
