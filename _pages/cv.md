@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+You can download my CV [here](http://example.com/cv.pdf) :)
+
+
 Research Experience
 ======
 My research experience primarily focuses on Computer Vision (3D Reconstruction, medical imaging processing), Robotics (SLAM, multi-sensor fusion, UAVs), and AI.
