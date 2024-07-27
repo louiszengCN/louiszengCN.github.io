@@ -26,8 +26,22 @@ Based on these experiences, I completed five papers as the **first author** from
 
 I enjoy researching meaningful problems from basic principles to in-depth solutions. I hope my research has practical applications. I believe that in the next five years, embodied intelligence in robotics (general-purpose robots, surgical robots) will have significant development potential. I hope to pursue research related to these topics.
 
-Getting started
+Publications
 ======
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="http://yourimageurl.com/image.png" alt="Image description" style="width:100%; max-width:200px;"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h3>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint</h3>
+    <p>Sixiang Chen, Tian Ye, Kai Zhang, <strong>Zhaohu Xing</strong>, Yunlong Lin, and Lei Zhu</p>
+    <p><strong>State: Accepted by ECCV2024</strong></p>
+  </div>
+</div>
+
+
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
