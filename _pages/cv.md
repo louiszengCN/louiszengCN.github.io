@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download my CV [here](http://example.com/cv.pdf) :)
+You can download my CV [here](/files/TIANLECV.pdf) :)
 
 
 Research Experience
