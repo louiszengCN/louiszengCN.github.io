@@ -24,7 +24,7 @@ author:
   avatar           : "tianle.png"
   name             : "Tianle Zeng"
   pronouns         : # example: "she/her"  
-  bio              : "投入几番竞技赛"
+  bio              : #"投入几番竞技赛"
   location         : "Beijing"
   employer         : "University of Leeds"
   Blog             : "https://blog.csdn.net/weixin_43890835?spm=1000.2115.3001.5343"
