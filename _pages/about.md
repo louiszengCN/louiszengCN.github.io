@@ -113,7 +113,7 @@ Intern
     <img src="/images/dji.png" alt="Image description" style="width:100px; height:100px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>DJI, SLAM Algorithm Engineer Intern, 2023</h3>
+    <h3>DJI, Drone SLAM Algorithm Engineer Intern, 2023</h3>
   </div>
 </div>
   
@@ -122,7 +122,7 @@ Intern
     <img src="/images/Autel_Robotics_Logo.png" alt="Image description" style="width:100px; height:40px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>Autel Robotics, AI Apllication Research Intern, 2023</h3>
+    <h3>Autel Robotics, Drone AI Apllication Research Intern, 2023</h3>
   </div>
 </div>
   
