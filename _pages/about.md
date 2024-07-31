@@ -43,7 +43,7 @@ Publications
     <img src="/images/TIMp.png" alt="Image description" style="width:300px; height:150px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>YOCO: You Only Calibrate Once for Accurate\\Extrinsic  Parameter in LiDAR-Camera Systems</h3>
+    <h3>YOCO: You Only Calibrate Once for Accurate Extrinsic  Parameter in LiDAR-Camera Systems</h3>
     <p><strong>Tianle Zeng</strong>, Dengke He, Feifan Yan, Meixi He</p>
     <p>State: <strong>Minior revision completed</strong> for IEEE Transcations on Instrumentation and Measurement</p>
   </div>
