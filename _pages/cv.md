@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 You can download my CV [here](/files/TIANLECV.pdf) :)
-I am updating my CV recently, I suppose it will be updated on 7.31:)
-Do not forget to come back and see my brand new CV
+
 
 
 Research Experience
