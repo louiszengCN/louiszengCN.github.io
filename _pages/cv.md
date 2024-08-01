@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download my CV [here](/files/CVZengTianle.pdf) :)
+You can download my CV [here](/files/cvztl.pdf) :)
 
 
 
