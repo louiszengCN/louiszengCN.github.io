@@ -21,7 +21,7 @@ Publications
     <img src="/images/new_training_process.png" alt="Image description" style="width:300px; height:150px;"/>
   </div>
   <div style="flex: 2; padding-left: 20px; text-align: center;">
-    <h3>NeeCo: Novel Instrument Deformation Synthesis Based on Dynamic 3D Gaussian Reconstruction</h3>
+    <h3>NeeCo: Image Synthesis of Novel Instrument States Based on Dynamic and Deformable 3D Gaussian Reconstruction</h3>
     <p><strong>Tianle Zeng</strong>, Junlei Hu, Gerardo Loza Galindo, Pietro Valdastri, and Dominic Jones</p>
     <p>State: Submitted to IEEE Transactions on Medical Imaging</p>
   </div>
