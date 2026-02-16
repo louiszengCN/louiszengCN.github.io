@@ -1,0 +1,17 @@
+【你只需要做 2 步】
+
+第一步：在 GitHub 新建空仓库
+  1. 打开：https://github.com/new
+  2. Repository name 填：my-homepage（或任意英文名；若用个人主页就填 louiszengCN.github.io）
+  3. 选 Public，下面 README / .gitignore / license 都不要勾选
+  4. 点 Create repository
+
+第二步：在本文件夹双击运行「推送到新仓库.bat」
+  1. 弹出黑窗口后，按提示输入仓库名（和第一步填的一致，如 my-homepage）
+  2. 回车，等待推送；若弹出浏览器登录 GitHub，登录即可
+  3. 若报错 Connection reset：关掉 VPN 再双击运行一次
+
+完成后：
+  若仓库名是 louiszengCN.github.io → 打开 https://louiszengCN.github.io
+  若是其他名字 → 打开 https://louiszengCN.github.io/仓库名/
+  到仓库 Settings → Pages → Source 选 Deploy from branch，分支 main，保存即可生效。
