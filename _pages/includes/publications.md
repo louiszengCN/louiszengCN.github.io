@@ -7,6 +7,6 @@
 
 4. **Realistic Surgical Image Dataset Generation Based on 3D Gaussian Splatting.** <br /><u>Tianle Zeng</u>, Gerardo Loza Galindo, Junjie Hu, et al. <br />**MICCAI 2024**. [[paper](https://arxiv.org/pdf/2407.14846)]
 
-5. **YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems.** <br /><u>Tianle Zeng</u>, Xin Gu, Feifan Yan, et al. <br />**Measurement Science and Technology, 2025**, 36(7): 075009. [[paper](https://arxiv.org/pdf/2407.18043?)]
+5. **YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems.** <br /><u>Tianle Zeng</u>, Xin Gu, Feifan Yan, et al. <br />**Measurement Science and Technology, 2025**. [[paper](https://arxiv.org/pdf/2407.18043?)]
 
-6. **Laser SLAM Method Based on Spatial Geometric Features in Degenerate Environments.** <br />Dengke He, <u>Tianle Zeng</u>, Feifan Yan, et al. <br />**Journal of Chinese Inertial Technology**, 32(6).
+6. **Laser SLAM Method Based on Spatial Geometric Features in Degenerate Environments.** <br />Dengke He, <u>Tianle Zeng</u>, Feifan Yan, et al. <br />**Journal of Chinese Inertial Technology, 2024**, 

@@ -1,4 +1,2 @@
-# main links (About me and CV removed per request)
-main:
-  - title: "Publications"
-    url: /publications/
+# main links (only site title / home remains)
+main: []
