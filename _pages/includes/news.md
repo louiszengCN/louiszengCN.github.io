@@ -1,2 +1,3 @@
 # 🔥 News
-- *2026.02*: Welcome to my homepage! You can add news items here.
+- *2026.02*: Page updating.
+- *2026.02*: Our paper EZREAL has been accepted by ICRA 2026, see you in Vienna this June.
