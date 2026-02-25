@@ -8,17 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.paper-box { display: flex; justify-content: left; align-items: center; flex-direction: row; flex-wrap: wrap; border-bottom: 1px #efefef solid; padding: 2em 0; }
-.paper-box .paper-box-image { justify-content: center; display: flex; width: 100%; order: 2; }
-.paper-box .paper-box-image img { max-width: 400px; box-shadow: 3px 3px 6px #888; object-fit: cover; }
-.paper-box .paper-box-text { max-width: 100%; order: 1; }
-@media (min-width: 64em) {
-  .paper-box .paper-box-image { justify-content: left; min-width: 200px; max-width: 40%; order: 1; }
-  .paper-box .paper-box-text { padding-left: 2em; max-width: 60%; order: 2; }
-}
-</style>
-
 <span class='anchor' id='about-me'></span>
 
 {% capture intro %}{% include_relative includes/intro.md %}{% endcapture %}

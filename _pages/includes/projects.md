@@ -20,9 +20,9 @@ Under Review
 
 <u>Tianle Zeng</u>, Jianwei Peng, Hanjing Ye, et al.
 
-2026 IEEE International Conference on Robotics and Automation (ICRA)
+IEEE International Conference on Robotics and Automation (ICRA), 2026 
 
-[[arXiv](https://arxiv.org/abs/2509.13720)]
+[[paper](https://arxiv.org/abs/2509.13720)]
 </div>
 </div>
 
@@ -36,7 +36,7 @@ Under Review
 
 IEEE Transactions on Medical Imaging, 2025
 
-[[paper](https://louiszengcn.github.io/files/08TMI.pdf)]
+[[paper](https://ieeexplore.ieee.org/abstract/document/11319357)]
 </div>
 </div>
 
@@ -48,9 +48,9 @@ IEEE Transactions on Medical Imaging, 2025
 
 <u>Tianle Zeng</u>, Gerardo Loza Galindo, Junjie Hu, et al.
 
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Cham: Springer Nature Switzerland, 2024: 510-519
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024 
 
-[[paper](https://louiszengcn.github.io/files/MICCAI.pdf)]
+[[paper](https://arxiv.org/pdf/2407.14846)]
 </div>
 </div>
 
@@ -62,9 +62,9 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 <u>Tianle Zeng</u>, Xin Gu, Feifan Yan, et al.
 
-Measurement Science and Technology, 2025, 36(7): 075009
+Measurement Science and Technology, 2025.
 
-[[paper](https://louiszengcn.github.io/files/TIM.pdf)]
+[[paper](https://arxiv.org/pdf/2407.18043?)]
 </div>
 </div>
 
@@ -76,7 +76,7 @@ Measurement Science and Technology, 2025, 36(7): 075009
 
 Dengke He, <u>Tianle Zeng</u>, Feifan Yan, et al.
 
-Journal of Chinese Inertial Technology, 32(6)
+Journal of Chinese Inertial Technology, 2024.
 
 </div>
 </div>
