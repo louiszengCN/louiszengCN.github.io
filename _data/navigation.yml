@@ -1,22 +1,4 @@
-# main links links
+# main links (About me and CV removed per request)
 main:
   - title: "Publications"
     url: /publications/
-
-  #- title: "Research Experience"
-   # url: /talks/    
-
-  - title: "About me"
-    url: /teaching/    
-    
-#  - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-#  - title: "Guide"
- #  url: /markdown/
