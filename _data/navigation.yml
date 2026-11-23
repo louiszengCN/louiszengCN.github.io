@@ -1,2 +1,12 @@
-# main links (only site title / home remains)
-main: []
+# Single-page academic homepage navigation.
+main:
+  - title: "About Me"
+    url: "/#about-me"
+  - title: "News"
+    url: "/#news"
+  - title: "Projects"
+    url: "/#projects"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Services"
+    url: "/#services"

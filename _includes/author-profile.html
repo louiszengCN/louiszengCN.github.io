@@ -1,35 +1,50 @@
 {% include base_path %}
-
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
-
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
-
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
     {% endif %}
   </div>
-
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.role %}<p class="author__bio">{{ author.role }}</p>{% endif %}
   </div>
-
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+      {% if author.research %}
+        <li class="author__research">
+          {{ author.research }}
+          {% if author.pet_photo %}
+            <div class="author__pet-photo">
+              <img src="{{ author.pet_photo | prepend: "/images/" | prepend: base_path }}" alt="Xiaomu, my Border Collie, looking up with a smile" width="144" height="128" loading="lazy" decoding="async">
+            </div>
+          {% endif %}
+        </li>
+      {% endif %}
       {% if author.location %}
-        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+        <li><i class="fas fa-fw fa-location-dot" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}" title="{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      {% endif %}
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
       {% endif %}
     </ul>
+    <div class="author__urls_sm" aria-label="Contact and academic profiles">
+      {% if author.email %}<a href="mailto:{{ author.email }}" aria-label="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>{% endif %}
+      {% if author.github %}<a href="https://github.com/{{ author.github }}" aria-label="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>{% endif %}
+      {% if author.googlescholar %}<a href="{{ author.googlescholar }}" aria-label="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>{% endif %}
+    </div>
   </div>
 </div>

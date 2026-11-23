@@ -1,6 +1,7 @@
 ---
 title: "Laser SLAM Method Based on Spatial Geometric Features in Degenerate Environments"
 collection: publications
+published: false
 permalink: /publication/2023-06-01-laser-slam-degenerate
 date: 2023-06-01
 excerpt: 'Laser SLAM in degenerate environments using spatial geometric features.'

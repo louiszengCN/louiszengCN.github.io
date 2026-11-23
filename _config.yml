@@ -21,6 +21,9 @@ author:
   avatar           : "tianle.png"
   name             : "Tianle Zeng"
   pronouns         :
+  pet_photo        : "xiaomu-smile.jpg"
+  role             : "Ph.D. student, SUSTech"
+  research         : "Building intelligent robots—so one day they can dog-sit Xiaomu👇, my Border Collie, while I travel."
   bio              : "Ph.D. student at SUSTech. Working on embodied AI for robotics and human-robot interaction."
   location         : "Shenzhen, China"
   employer         : "Southern University of Science and Technology (SUSTech)"
@@ -40,7 +43,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "louiszengCN"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -165,6 +168,8 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
+  - work
+  - THIRD_PARTY_LICENSES.txt
   - package.json
   - tmp
   - vendor

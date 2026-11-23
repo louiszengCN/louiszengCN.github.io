@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications %}
+{% assign ordered_publications = site.publications | sort: "display_order" %}
+{% for post in ordered_publications %}
   {% include archive-single.html %}
 {% endfor %}

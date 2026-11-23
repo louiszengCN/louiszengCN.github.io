@@ -1,1 +1,2 @@
-I am a Ph.D. student at Southern University of Science and Technology (SUSTech), advised by Prof. Hong Zhang. I previously received my M.E. from University of Leeds. My research interests include **embodied AI for robotics** and **human-robot interaction**.
+I am a Ph.D. student at Southern University of Science and Technology (SUSTech), advised by Prof. Hong Zhang. I previously received my M.E. from the University of Leeds.
+My current research focuses on developing **general-purpose mobile robots for human-centric tasks**, with an emphasis on **data infrastructure development and foundation model pre-training**. My previous research spans **3D scene reconstruction, simulation and data generation, and multi-sensor systems**.
