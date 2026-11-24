@@ -94,6 +94,12 @@
 
   a { display: block; }
 
+  video {
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: contain;
+  }
+
   .project-preview-toggle {
     position: absolute;
     right: .45rem;
