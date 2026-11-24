@@ -8,7 +8,7 @@
 <p class="paper-title"><strong>LeadVLA: Learning Follower-Aware Route Execution for Robot Leading</strong></p>
 <p><u>Tianle Zeng</u>, Hanjing Ye, Bingyi Xia, Yuchen Zhou, Zibo Zhang, Yufei Huang, Yonggen Ling, Hong Zhang</p>
 <p>Under Review</p>
-<p><span class="resource-pending" aria-disabled="true" title="arXiv link coming soon">[arXiv]</span> [<a href="https://louiszengcn.github.io/LeadVLA_PAGE/">project page</a>] [<a href="https://github.com/louiszengCN/LeadVLA_CODE">GitHub</a>]</p>
+<p>[<a href="https://arxiv.org/abs/2611.30149">arXiv</a>] [<a href="https://louiszengcn.github.io/LeadVLA_PAGE/">project page</a>] [<a href="https://github.com/louiszengCN/LeadVLA_CODE">GitHub</a>]</p>
 </div>
 </div>
 

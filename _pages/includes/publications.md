@@ -1,7 +1,7 @@
 <span class="section-anchor" id="publications"></span>
 
 # 📚 Publications
-1. **LeadVLA: Learning Follower-Aware Route Execution for Robot Leading.** <br /><u>Tianle Zeng</u>, Hanjing Ye, Bingyi Xia, Yuchen Zhou, Zibo Zhang, Yufei Huang, Yonggen Ling, Hong Zhang <br />**Under Review**. <span class="resource-pending" aria-disabled="true" title="arXiv link coming soon">[arXiv]</span> [[project page](https://louiszengcn.github.io/LeadVLA_PAGE/)] [[GitHub](https://github.com/louiszengCN/LeadVLA_CODE)]
+1. **LeadVLA: Learning Follower-Aware Route Execution for Robot Leading.** <br /><u>Tianle Zeng</u>, Hanjing Ye, Bingyi Xia, Yuchen Zhou, Zibo Zhang, Yufei Huang, Yonggen Ling, Hong Zhang <br />**Under Review**. [[arXiv](https://arxiv.org/abs/2611.30149)] [[project page](https://louiszengcn.github.io/LeadVLA_PAGE/)] [[GitHub](https://github.com/louiszengCN/LeadVLA_CODE)]
 
 2. **Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following.** <br />Hanjing Ye<sup>*</sup>, <u>Tianle Zeng</u><sup>*</sup>, Jianwei Peng<sup>*</sup>, Yanci Wen, Yuchen Zhou, Yonggen Ling, Hong Zhang <br /><sup>*</sup> Equal contribution. <br />**NeurIPS 2026**. <span class="resource-pending" aria-disabled="true" title="arXiv coming soon">[arXiv]</span> <span class="resource-pending" aria-disabled="true" title="project page coming soon">[project page]</span> <span class="resource-pending" aria-disabled="true" title="GitHub coming soon">[GitHub]</span>
 
