@@ -16,4 +16,4 @@ Hanjing Ye<sup>*</sup>, <u>Tianle Zeng</u><sup>*</sup>, Jianwei Peng<sup>*</sup>
 
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
 
-<span class="resource-pending" aria-disabled="true" title="arXiv coming soon">[arXiv]</span> <span class="resource-pending" aria-disabled="true" title="project page coming soon">[project page]</span> <span class="resource-pending" aria-disabled="true" title="GitHub coming soon">[GitHub]</span>
+<span class="resource-pending" aria-disabled="true" title="arXiv coming soon">[arXiv]</span> [[video](https://medlartea.github.io/follow-bench-v2/#video)] [[project page](https://medlartea.github.io/follow-bench-v2/)] [[GitHub](https://github.com/MedlarTea/follow-bench-2.0/)]
