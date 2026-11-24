@@ -3,17 +3,7 @@
 # 📝 Selected Projects
 <!-- LeadVLA -->
 <div class="paper-box">
-<div class="paper-box-image">
-<div class="project-preview">
-<a href="https://louiszengcn.github.io/LeadVLA_PAGE/" aria-label="Open the LeadVLA project page and coffee shop demo">
-<video id="leadvla-preview" width="800" height="450" poster="/images/leadvla-coffee.webp" preload="none" muted playsinline loop>
-<source src="/images/leadvla-coffee.mp4" type="video/mp4">
-<img src="/images/leadvla-coffee.webp" alt="LeadVLA robot leading a customer in a coffee shop" width="800" height="450">
-</video>
-</a>
-<button type="button" class="project-preview-toggle" aria-controls="leadvla-preview" hidden>Play</button>
-</div>
-</div>
+<div class="paper-box-image"><a href="https://louiszengcn.github.io/LeadVLA_PAGE/"><img src="/images/leadvla-coffee.gif" alt="LeadVLA robot leading a customer in a coffee shop" width="560" height="316" loading="lazy" decoding="async"></a></div>
 <div class="paper-box-text">
 <p class="paper-title"><strong>LeadVLA: Learning Follower-Aware Route Execution for Robot Leading</strong></p>
 <p><u>Tianle Zeng</u>, Hanjing Ye, Bingyi Xia, Yuchen Zhou, Zibo Zhang, Yufei Huang, Yonggen Ling, Hong Zhang</p>
@@ -21,7 +11,6 @@
 <p>[<a href="https://arxiv.org/abs/2611.30149">arXiv</a>] [<a href="https://louiszengcn.github.io/LeadVLA_PAGE/">project page</a>] [<a href="https://github.com/louiszengCN/LeadVLA_CODE">GitHub</a>]</p>
 </div>
 </div>
-<script src="/assets/js/leadvla-preview.js" defer></script>
 
 <!-- Follow-Bench 2.0 -->
 <div class="paper-box">
