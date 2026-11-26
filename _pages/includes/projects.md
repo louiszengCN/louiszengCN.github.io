@@ -20,7 +20,7 @@
 <p>Hanjing Ye<sup>*</sup>, <u>Tianle Zeng</u><sup>*</sup>, Jianwei Peng<sup>*</sup>, Yanci Wen, Yuchen Zhou, Yonggen Ling, Hong Zhang</p>
 <p class="equal-contribution"><sup>*</sup> Equal contribution.</p>
 <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
-<p><span class="resource-pending" aria-disabled="true" title="arXiv coming soon">[arXiv]</span> [<a href="https://medlartea.github.io/follow-bench-v2/#video">video</a>] [<a href="https://medlartea.github.io/follow-bench-v2/">project page</a>] [<a href="https://github.com/MedlarTea/follow-bench-2.0/">GitHub</a>]</p>
+<p>[<a href="https://arxiv.org/abs/2611.32579">arXiv</a>] [<a href="https://medlartea.github.io/follow-bench-v2/#video">video</a>] [<a href="https://medlartea.github.io/follow-bench-v2/">project page</a>] [<a href="https://github.com/MedlarTea/follow-bench-2.0/">GitHub</a>]</p>
 </div>
 </div>
 
